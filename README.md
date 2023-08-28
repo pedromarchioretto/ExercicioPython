@@ -1,4 +1,4 @@
-# Exercício em python
+# Exercício em python 🐍
 
 #### Para treinar programação e lógica em python, criei um script em python que escreve uma string determinada pelo usuário em formato de escada 
 <img src="imgs/ExExecuting.png" width="70%">
@@ -31,3 +31,5 @@ py index.py -h
 Você verá uma tela como essa:
 
 <img src="imgs/Help.png" width="80%">
+
+Caso tenha ideias para otimização e melhora do código, faça uma pull request 😄
