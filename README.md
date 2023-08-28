@@ -1,6 +1,6 @@
 # Exercício em python 🐍
 
-#### Para treinar programação e lógica em python, criei um script em python que escreve uma string determinada pelo usuário em formato de escada 
+#### Script em python para escrever uma string determinada pelo usuário em formato de escada 
 <img src="imgs/ExExecuting.png" width="70%">
 
 ### Execução do código: 
