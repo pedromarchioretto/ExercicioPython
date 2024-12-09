@@ -32,4 +32,4 @@ Você verá uma tela como essa:
 
 <img src="imgs/Help.png" width="80%">
 
-Caso tenha ideias para otimização e melhora do código, faça uma pull request 😄
+Caso tenha ideias para otimização e melhora do código, faça uma pull request 
